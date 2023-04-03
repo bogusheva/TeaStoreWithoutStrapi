@@ -20,10 +20,10 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "73",
                 attributes: {
                   url: "/product40_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Kyoto Tea",
                 },
               },
             ],
@@ -31,93 +31,75 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "348",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Katie R",
+                  productTitle: "Kyoto Tea",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "I love adding a bit of soy or nut milk to blend with the matcha powder. The rice gives a very unusual but nutty taste. This is the best green tea I have ever made!",
                 },
               },
               {
-                id: "9",
+                id: "347",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  name: "Mickie T",
+                  productTitle: "Kyoto Tea",
+                  rating: 4,
+                  text: "I used 2 tsp for 1 cup of tea and it was still a little weak for my taste but it was delicious none the less. It smells heavenly and is perfect for unwinding at the end of the day for me. Will definitely be purchasing this again as soon as I run out maybe even before. I rated it 4 stars just because I feel it could have been a little stronger but it's a personal preference.",
                 },
               },
               {
-                id: "8",
+                id: "346",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Ashley L",
+                  productTitle: "Kyoto Tea",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "I order this one for my office and it's always the first to go. In fact I have to hold it in my desk drawer and refuse to release it until they finish the other flavors that are already open because they will tear into this immediately. The flavor is thick and grassy. it's incredibly satisfying.",
                 },
               },
               {
-                id: "7",
+                id: "345",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Angela L",
+                  productTitle: "Kyoto Tea",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "My first purchase, and I love this tea!  It's super fragrant, and ricey , and smooth, no bitterness...  it is guaranteed to be a staple in my tea cabinet.",
                 },
               },
               {
-                id: "6",
+                id: "344",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Marcia B",
+                  productTitle: "Kyoto Tea",
                   rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  text: "We have it in the morning with breakfast.  The rice adds a unique flavor.  This is the most expensive tea and worth every penny!!",
                 },
               },
               {
-                id: "5",
+                id: "343",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Kim B",
+                  productTitle: "Kyoto Tea",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "Have to say I was skeptical when I first steeped due to aroma but to my surprise best green tea I’ve ever had! Very flavorful, nice smooth green tea.  Received my first order yesterday along with a few other flavored loose teas can’t wait to try them all! ",
                 },
               },
               {
-                id: "4",
+                id: "342",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Christine B",
+                  productTitle: "Kyoto Tea",
                   rating: 5,
-                  text: "Very good quality ",
+                  text: "I love this Gen Macha tea! I have tried so many different brands, trying to find a substitute since my favorite tea store closed a few years ago. I have tried numerous tea shops, Asian markets, and higher end teas at the grocery stores but nothing compares.",
                 },
               },
               {
-                id: "3",
+                id: "341",
                 attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Tracy F",
+                  productTitle: "Kyoto Tea",
                   rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "It’s very hard to describe this amazing tea. The puffed rice bits seem to smell burned but please do not let that dissuade you. This is the best green tea I’ve ever had.",
                 },
               },
             ],
@@ -144,7 +126,7 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "72",
                 attributes: {
                   url: "/product39_1.webp",
                   alternativeText: "Yunnan Black Tea",
@@ -155,93 +137,66 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "340",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Natalie T",
+                  productTitle: "Tuscany Tea",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "I will only buy organic teas so that limits my choices greatly. When I tried this tea, I felt like I struck gold because I had to compromise nothing. It looks gorgeous and tastes sublime!",
                 },
               },
               {
-                id: "9",
+                id: "339",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Debby R",
+                  productTitle: "Tuscany Tea",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "I received a sample of this Tea for valentines and fell in love (no pun intended). The taste is lovely for anytime you need a nice, smooth cup of tea. I will continue to purchase this tea, as it is now my favorite.",
                 },
               },
               {
-                id: "8",
+                id: "338",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  productTitle: "Tuscany Tea",
+                  name: "Savanna W",
+                  text: "I love this tea. I just add 1 tbsp to my tumbler and go on with my day! Love it!",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
                 },
               },
               {
-                id: "7",
+                id: "337",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  productTitle: "Tuscany Tea",
+                  name: "Anna S",
+                  text: "The combination of wild roses and peppermint is soothing and comforting. This tea is not too floral, or too minty; it's a perfect balance between the two.",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
                 },
               },
               {
-                id: "6",
+                id: "336",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Jeeney O",
+                  productTitle: "Tuscany Tea",
                   rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  text: "I usually don't drink blended teas as I prefer single origin tea but when my girlfriend bought me this tea I was willing to give it a shot. I was very surprised by how much I liked it.",
                 },
               },
               {
-                id: "5",
+                id: "335",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  name: "Lara T",
+                  productTitle: "Tuscany Tea",
+                  rating: 4,
+                  text: "I absolutely loved this tea!!! The floral notes in this tea were heavenly! I was not acidic to me at all. Will definitely purchase the bigger tin next time. Love the loose leaf!",
                 },
               },
               {
-                id: "4",
+                id: "334",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Very good quality ",
-                },
-              },
-              {
-                id: "3",
-                attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  name: "Elisabeth B",
+                  productTitle: "Tuscany Tea",
+                  rating: 4,
+                  text: "This blend is ~delicate~ indeed. I am completely satisfied with a longer steeping time! The subtlety is just enough to pick up on the hints of lavender, rose, and mint. It is refreshingly relaxing.",
                 },
               },
             ],
@@ -268,10 +223,10 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "71",
                 attributes: {
-                  url: "/product39_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  url: "/product38_1.webp",
+                  alternativeText: "Big Sur Tea",
                 },
               },
             ],
@@ -279,93 +234,48 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "333",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Shakeh H",
+                  productTitle: "Big Sur Tea (Mint Earl Grey Crème)",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "My staple. This tea is delicious!  All the charm of an Earl Grey with an extra fresh minty aftertaste that is perfect. Highly, highly recommend.",
                 },
               },
               {
-                id: "9",
+                id: "332",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Mary Beth Y",
+                  productTitle: "Big Sur Tea (Mint Earl Grey Crème)",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "Uniquely delicious flavor combination! Never had anything quite like this one before; this is a truly excellent tea!",
                 },
               },
               {
-                id: "8",
+                id: "331",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Mary J",
+                  productTitle: "Big Sur Tea (Mint Earl Grey Crème)",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "Outstanding flavor and aroma.  I ordered this before and I will continue to order again when my supply gets low.  This is one of my favorite teas.  It is an excellent choice iced or hot and with or without cream.",
                 },
               },
               {
-                id: "7",
+                id: "330",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Terry K",
+                  productTitle: "Big Sur Tea (Mint Earl Grey Crème)",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "I love this tea. I came upon on a trip to California and started ordering it online.  It has a delightful flavor and nice body.",
                 },
               },
               {
-                id: "6",
+                id: "329",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Michele B",
+                  productTitle: "Big Sur Tea (Mint Earl Grey Crème)",
                   rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
-                },
-              },
-              {
-                id: "5",
-                attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
-                },
-              },
-              {
-                id: "4",
-                attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Very good quality ",
-                },
-              },
-              {
-                id: "3",
-                attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "This is my ABSOLUTE favorite tea. It takes my other all time favorite (Earl Grey Creme) and brings it to another level with a minty and refreshing twist.",
                 },
               },
             ],
@@ -392,10 +302,10 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "70",
                 attributes: {
                   url: "/product37_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "London Tea",
                 },
               },
             ],
@@ -403,93 +313,66 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "328",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  name: "Rachel I",
+                  productTitle: "London Tea",
+                  rating: 4,
+                  text: "London tea is a nice alternative to the traditional Earl Grey. Earl Grey blended with lavender lends lovely tasting notes and scent. I add a bit of milk and sweetener to make this a London Fog.",
                 },
               },
               {
-                id: "9",
+                id: "327",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Lindsay T",
+                  productTitle: "London Tea",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "The best tea with milk and sweetener!  Such a treat!",
                 },
               },
               {
-                id: "8",
+                id: "326",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Devyn S",
+                  productTitle: "London Tea",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "I first tried this tea at work and I was instantly hooked and had to buy some for my home. Truly the best tea I've ever had - semi-sweet, floral, citrusy.",
                 },
               },
               {
-                id: "7",
+                id: "325",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Christine G",
+                  productTitle: "London Tea",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "A delicious and smooth tasting tea. It’s a great morning and afternoon tea",
                 },
               },
               {
-                id: "6",
+                id: "324",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Gia V",
+                  productTitle: "London Tea",
                   rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  text: "Nice silky brew with herbaceous lavender finish",
                 },
               },
               {
-                id: "5",
+                id: "323",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Mila S",
+                  productTitle: "London Tea",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "Absolutely love it! I make a drink with vanilla and lavender syrup and also oat milk and I keep it in the refrigerator. It’s a cold drink and I drink it everyday.",
                 },
               },
               {
-                id: "4",
+                id: "322",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Susana D",
+                  productTitle: "London Tea",
                   rating: 5,
-                  text: "Very good quality ",
-                },
-              },
-              {
-                id: "3",
-                attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "Smooth and delicious,  pairs well with some cream and sugar",
                 },
               },
             ],
@@ -516,10 +399,10 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "69",
                 attributes: {
                   url: "/product36_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Rooibos Chai Tea",
                 },
               },
             ],
@@ -527,93 +410,75 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "321",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  name: "Holden Y",
+                  productTitle: "Rooibos Chai Tea",
+                  rating: 4,
+                  text: "I have been looking for a caffeine-free chai that still has lots of flavor. This is it!  The spices in it (including whole cardamom pods) are extremely fragrant and aromatic. I even boil the tea in milk for a good chai tea latte",
                 },
               },
               {
-                id: "9",
+                id: "320",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Leesa I",
+                  productTitle: "Rooibos Chai Tea",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "At last a yummy, smooth Chai w/ no caffeine.  So soothing to have this spicy, warm tea on a cool evening and because it's caffeine free, I can drink it right before bed.  Just the smell of it is delicious.",
                 },
               },
               {
-                id: "8",
+                id: "319",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Corrine J",
+                  productTitle: "Rooibos Chai Tea",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "I was SO happy to find an herbal Chai without caffeine! This can be made with milk and sugar and tastes just divine!",
                 },
               },
               {
-                id: "7",
+                id: "318",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Lisa C",
+                  productTitle: "Rooibos Chai Tea",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "Full of flavor, if you usually add milk and sugar you can skip it. Definitely the best quality I have had.",
                 },
               },
               {
-                id: "6",
+                id: "317",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  name: "Kenzie T",
+                  productTitle: "Rooibos Chai Tea",
+                  rating: 4,
+                  text: "Fantastic tea without caffeine! Tastes indulgent--what a treat! I picked Art of Tea because I love that they are local and have a lot of good sustainability practices.",
                 },
               },
               {
-                id: "5",
+                id: "316",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Victoria T",
+                  productTitle: "Rooibos Chai Tea",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "I love this tea! The chai flavor isn’t as strong as I hoped for but it’s still very delicious! I would purchase again",
                 },
               },
               {
-                id: "4",
+                id: "315",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Catherine A",
+                  productTitle: "Rooibos Chai Tea",
                   rating: 5,
-                  text: "Very good quality ",
+                  text: "Delicious herbal rooibos. This is the perfect herbal chai- very flavorful and cozy",
                 },
               },
               {
-                id: "3",
+                id: "314",
                 attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Hope S",
+                  productTitle: "Rooibos Chai Tea",
                   rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "A caffeine free chai with perfect balance! This my go-to when I need a morning boost but don’t want the second cup of coffee.",
                 },
               },
             ],
@@ -639,10 +504,24 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "66",
                 attributes: {
                   url: "/product35_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Matcha Fresca Tea",
+                },
+              },
+              {
+                id: "67",
+                attributes: {
+                  url: "/product35_2.webp",
+                  alternativeText: "Matcha Fresca Tea",
+                },
+              },
+              {
+                id: "68",
+                attributes: {
+                  url: "/product35_3.webp",
+                  alternativeText: "Matcha Fresca Tea",
                 },
               },
             ],
@@ -650,93 +529,66 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "313",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Ashley T",
+                  productTitle: "Matcha Fresca Tea",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "Delicious and refreshing - perfect for summer! I love the light, refreshing taste and the cute packaging!",
                 },
               },
               {
-                id: "9",
+                id: "312",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Jenny T",
+                  productTitle: "Matcha Fresca Tea",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "I really love this product. It makes a delightfully refreshing drink, such a healthy alternative to sugary sodas!  It has a light and bright flavor which isn’t overpowering. I love the sustainable packaging, too.",
                 },
               },
               {
-                id: "8",
+                id: "311",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Rosina M",
+                  productTitle: "Matcha Fresca Tea",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "This is quickly become my new favorite Matcha! I love the delicious refreshing melon taste even the packaging it’s so cute! Its pairs perfectly with a hot summer day!",
                 },
               },
               {
-                id: "7",
+                id: "310",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Katue B",
+                  productTitle: "Matcha Fresca Tea",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "I recently discovered this Matcha Fresca Tea and it has become my new favorite go to matcha drink. It doesn’t get all clumpy when you mix it and the overall quality of the product is better than most coffee shops.",
                 },
               },
               {
-                id: "6",
+                id: "309",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Sunita R",
+                  productTitle: "Matcha Fresca Tea",
                   rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  text: "I have been loving this refreshingly different Matcha tea!  The addition of melon renders a delicious and bright tea that is perfect in the summer or any time of year.",
                 },
               },
               {
-                id: "5",
+                id: "308",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Celine P",
+                  productTitle: "Matcha Fresca Tea",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "Loving the Matcha tea. Extremely easy to make no lumps. I like adding coconut milk to it",
                 },
               },
               {
-                id: "4",
+                id: "307",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Ray T",
+                  productTitle: "Matcha Fresca Tea",
                   rating: 5,
-                  text: "Very good quality ",
-                },
-              },
-              {
-                id: "3",
-                attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "They aren't kidding when they describe it as the most refreshing. This instantly hooked me on as a highly drinkable, daily (post-morning caffeine) refreshment.",
                 },
               },
             ],
@@ -762,10 +614,10 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "65",
                 attributes: {
                   url: "/product34_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Matcha Tea Grade A",
                 },
               },
             ],
@@ -773,93 +625,75 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "306",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Barbara Q",
+                  productTitle: "Matcha Tea Grade A",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "After reading so much about the benefits of Matcha Tea, I decided to give it a try. After a few weeks, I cannot imagine my mornings without it.  I love the taste and how it makes me feel(focused and energized). I even love the ritual of it all with the special bowl and whisk.",
                 },
               },
               {
-                id: "9",
+                id: "305",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Francis O",
+                  productTitle: "Matcha Tea Grade A",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "It's the it's the best, the best I've ever had. Delicious on it's own or in latte form, simply the best Matcha green tea I have ever had. Ever.",
                 },
               },
               {
-                id: "8",
+                id: "304",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Barney T",
+                  productTitle: "Matcha Tea Grade A",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "I make blended matchas with my matcha, rather like a smoothie. It gives me a pep of energy for the afternoon/evening and I love the taste! I wish it weren't so expensive!",
                 },
               },
               {
-                id: "7",
+                id: "303",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Susan V",
+                  productTitle: "Matcha Tea Grade A",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "this is probably my 4th time buying and i love it even more. I absolutely love this matcha! i drink it and cook with it. It is super amazing quality!",
                 },
               },
               {
-                id: "6",
+                id: "302",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  name: "Sara L",
+                  productTitle: "Matcha Tea Grade A",
+                  rating: 4,
+                  text: "Love using this to make a frozen matcha smoothy!  Great energy and appetite suppressant!",
                 },
               },
               {
-                id: "5",
+                id: "301",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Mike M",
+                  productTitle: "Matcha Tea Grade A",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "The color of the tea doesn't match the color on the website. My tea is a very deep dark grassy green. On my computer screen it appears to be lime green. I love love this tea.",
                 },
               },
               {
-                id: "4",
+                id: "300",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Courtney U",
+                  productTitle: "Matcha Tea Grade A",
                   rating: 5,
-                  text: "Very good quality ",
+                  text: "After hearing about all the health benefits of matcha, I wanted to find the highest quality matcha possible. I heard about Art of Tea on a podcast, and was convinced that this brand was high quality. I finally ordered some, and safe to say, I have not been steered wrong!",
                 },
               },
               {
-                id: "3",
+                id: "299",
                 attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Samantha P",
+                  productTitle: "Matcha Tea Grade A",
                   rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "My husband thought he loved matcha tea, but he realized what it truly meant to love matcha tea after making it with Art of Tea's matcha powder. He said it was the most smooth, creamy, sweet, and pure matcha tea he'd ever tasted!",
                 },
               },
             ],
@@ -885,10 +719,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "63",
                 attributes: {
                   url: "/product33_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Matcha Cocoa",
+                },
+              },
+              {
+                id: "64",
+                attributes: {
+                  url: "/product33_2.webp",
+                  alternativeText: "Matcha Cocoa",
                 },
               },
             ],
@@ -896,93 +737,30 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "298",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Christi C",
+                  productTitle: "Matcha Cocoa",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "Warm and cozy chocolate matcha tea hits the spot! Love the intense non sweet chocolate taste.",
                 },
               },
               {
-                id: "9",
+                id: "297",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Cathryn F",
+                  productTitle: "Matcha Cocoa",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "I enjoyed the Matcha Cocoa when made and served like Hot Chocolate with marshmallows on top.",
                 },
               },
               {
-                id: "8",
+                id: "296",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Kris B",
+                  productTitle: "Matcha Cocoa",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
-                },
-              },
-              {
-                id: "7",
-                attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
-                },
-              },
-              {
-                id: "6",
-                attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
-                },
-              },
-              {
-                id: "5",
-                attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
-                },
-              },
-              {
-                id: "4",
-                attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Very good quality ",
-                },
-              },
-              {
-                id: "3",
-                attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "Rich cocoa taste - not too sweet - delicious!",
                 },
               },
             ],
@@ -1009,10 +787,24 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "60",
                 attributes: {
                   url: "/product32_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Aztec Spice Tea",
+                },
+              },
+              {
+                id: "61",
+                attributes: {
+                  url: "/product32_2.webp",
+                  alternativeText: "Aztec Spice Tea",
+                },
+              },
+              {
+                id: "62",
+                attributes: {
+                  url: "/product32_3.webp",
+                  alternativeText: "Aztec Spice Tea",
                 },
               },
             ],
@@ -1020,93 +812,84 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "295",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Mira E",
+                  productTitle: "Aztec Spice Tea",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "It gives me a hint of chocolate and then a lovely, spicy taste, just a bit of heat.  It would be a wonderful cup of tea on a cold winter day.  But why should I have to wait for winter?  I have a cup of this tea after dinner every night, even on these hot, humid summer days.  It is just delicious.",
                 },
               },
               {
-                id: "9",
+                id: "294",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  name: "Janice T",
+                  productTitle: "Aztec Spice Tea",
+                  rating: 4,
+                  text: "This is an interesting brew; Initially, the tea is smooth and the chocolate-esque flavor of the Pur-eh tea comes through, but pow! Then the cinnamon and chili bite on the finish! Considering that I'm not a huge fan of cinnamon, this was a nice change from the sickly sweet autumn brews that center on cinnamon.",
                 },
               },
               {
-                id: "8",
+                id: "293",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Amanda B",
+                  productTitle: "Aztec Spice Tea",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "I tried this at the Huntington Rose Garden tea room and then I had to ask the waitress where I could buy more.  It is incredible.  One of the best aromas of any tea I've ever tried - chocolatey and complex.  The flavor is subtle with notes of spice, chocolate, earth.",
                 },
               },
               {
-                id: "7",
+                id: "292",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Ana B",
+                  productTitle: "Aztec Spice Tea",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "My mother and I are enjoying a cup of tea every morning, this one has an earthy flavor with spice and chocolate hints which is delicious, it may not be an everyday tea for some people because of the spiciness but it's still great and would recommend buying at least a sample to try it.",
                 },
               },
               {
-                id: "6",
+                id: "291",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Valerie V",
+                  productTitle: "Aztec Spice Tea",
                   rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  text: "I absolutely love this tea!  Aztec Spice is the perfect balance of flavor, spice and smoothness.  This is a great tea for serving your guests when you want to offer something extra special.",
                 },
               },
               {
-                id: "5",
+                id: "290",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Margaret K",
+                  productTitle: "Aztec Spice Tea",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "Warming, perfect balance of spice and chocolate - a bedtime or after-meal treat!",
                 },
               },
               {
-                id: "4",
+                id: "289",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Stephanie W",
+                  productTitle: "Aztec Spice Tea",
                   rating: 5,
-                  text: "Very good quality ",
+                  text: "I love this tea and have been drinking it for the last 4 years! It's earthy and chocolatey with a hint of spice. You won't be disappointed!",
                 },
               },
               {
-                id: "3",
+                id: "288",
                 attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Angela C",
+                  productTitle: "Aztec Spice Tea",
                   rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
+                  text: "This is my first time enjoying such a unique tea with a chocolate and chili spice finish.  It was so good I ordered the LB bag to keep refilling the tin.",
                 },
               },
               {
-                id: "2",
+                id: "287",
                 attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Sandra B",
+                  productTitle: "Aztec Spice Tea",
                   rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "This tea is perfect by itself, but even better with a bit of almond milk. I drink this tea every day.",
                 },
               },
             ],
@@ -1133,10 +916,24 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "57",
                 attributes: {
                   url: "/product31_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Caramelized Pear Tea",
+                },
+              },
+              {
+                id: "58",
+                attributes: {
+                  url: "/product31_2.webp",
+                  alternativeText: "Caramelized Pear Tea",
+                },
+              },
+              {
+                id: "59",
+                attributes: {
+                  url: "/product31_3.webp",
+                  alternativeText: "Caramelized Pear Tea",
                 },
               },
             ],
@@ -1144,93 +941,66 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "286",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Rory G",
+                  productTitle: "Caramelized Pear Tea",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "Definitely a favorite. Held out for longer than I should've on actually buying it because I didn't have an infuser or anything for loose tea. I wish I'd just bitten the bullet sooner on buying.",
                 },
               },
               {
-                id: "9",
+                id: "285",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Tara W",
+                  productTitle: "Caramelized Pear Tea",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "This tea made me first try loose leaf as I’m not a tea enthusiast. I only came here for this tea. Bought my first infuser. I made it hot and tried it and it’s ok.",
                 },
               },
               {
-                id: "8",
+                id: "284",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  name: "Molly T",
+                  productTitle: "Caramelized Pear Tea",
+                  rating: 3,
+                  text: "This one is okay, but not my favorite of the teas I’ve tried from the Teath Avenue",
                 },
               },
               {
-                id: "7",
+                id: "283",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Michelle M",
+                  productTitle: "Caramelized Pear Tea",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "Such a great nighttime tea. Great to replace dessert with!",
                 },
               },
               {
-                id: "6",
+                id: "282",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  name: "Charles R",
+                  productTitle: "Caramelized Pear Tea",
+                  rating: 4,
+                  text: "Great dessert especially with a little sweetener and cream",
                 },
               },
               {
-                id: "5",
+                id: "281",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Zanna C",
+                  productTitle: "Caramelized Pear Tea",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "I'd been looking for something similar to the caffeine free pear tea at Mod Pizza. Found it! Ordering was so easy!",
                 },
               },
               {
-                id: "4",
+                id: "280",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Ron G",
+                  productTitle: "Caramelized Pear Tea",
                   rating: 5,
-                  text: "Very good quality ",
-                },
-              },
-              {
-                id: "3",
-                attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "I got the Caramelized Pear tea as my first foray into Art of Tea ever. while one reviewer was very dissatisfied with the flavor profile, and while I can understand many of their points, I would still say that this tea transported me to another level of delight. I am so happy with it.",
                 },
               },
             ],
@@ -1257,10 +1027,24 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "54",
                 attributes: {
                   url: "/product30_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Crème Brûlée",
+                },
+              },
+              {
+                id: "55",
+                attributes: {
+                  url: "/product30_2.webp",
+                  alternativeText: "Crème Brûlée",
+                },
+              },
+              {
+                id: "56",
+                attributes: {
+                  url: "/product30_3.webp",
+                  alternativeText: "Crème Brûlée",
                 },
               },
             ],
@@ -1268,93 +1052,75 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "279",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Donna H",
+                  productTitle: "Crème Brûlée",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "In the past I have brewed my own mint tea from mint leaves and black tea and thought it was pretty good.  This tea is better than what I made.  If you like mint tea, this is your stuff.",
                 },
               },
               {
-                id: "9",
+                id: "278",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  name: "Karen B",
+                  productTitle: "Crème Brûlée",
+                  rating: 4,
+                  text: "I feel like you constantly get backed into a corner at night when it comes to tea choices. This was a refreshingly different taste that was super soothing and calming at night!",
                 },
               },
               {
-                id: "8",
+                id: "277",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Emily C",
+                  productTitle: "Crème Brûlée",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "This is the only rooibos tea I have ever been able to drink. Rooibos usually gives me a sour stomach. So I ordered this by accident. But I was pleasantly surprised when I diluted it with milk. It tastes good and my stomach tolerates it better than the other rooibos teas ",
                 },
               },
               {
-                id: "7",
+                id: "276",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Betty M",
+                  productTitle: "Crème Brûlée",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "Utterly delicious and the smell sweetly divine. A luscious tea to enjoy anytime of day but evening time after a long day is simply perfect...",
                 },
               },
               {
-                id: "6",
+                id: "275",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  name: "Michelle T",
+                  productTitle: "Crème Brûlée",
+                  rating: 4,
+                  text: "A really smooth tea, but not sure that creme brûlée is the best name for it! Definitely note that it has mint flavors to it. I neglected this, but still a solid tea option for caffeine free! If you are not into mint teas, I would skip this one. ",
                 },
               },
               {
-                id: "5",
+                id: "274",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Molly H",
+                  productTitle: "Crème Brûlée",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "This tea is a nice subtle rooibos and has a lingering mint flavor. It’s cozy and relaxing. ",
                 },
               },
               {
-                id: "4",
+                id: "273",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Sylvia N",
+                  productTitle: "Crème Brûlée",
                   rating: 5,
-                  text: "Very good quality ",
+                  text: "I buy this for my daughter it’s her favorite tea. She has a cup every night before she goes to bed.",
                 },
               },
               {
-                id: "3",
+                id: "272",
                 attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Michael G",
+                  productTitle: "Crème Brûlée",
                   rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "Creme Brule I'd creamy and delicious.  It's also soothing and relaxing.  It's one of my favorites from here",
                 },
               },
             ],
@@ -1381,10 +1147,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "52",
                 attributes: {
                   url: "/product29_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Endurance Tea",
+                },
+              },
+              {
+                id: "53",
+                attributes: {
+                  url: "/product29_2.webp",
+                  alternativeText: "Endurance Tea",
                 },
               },
             ],
@@ -1392,93 +1165,84 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "271",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Betie T",
+                  productTitle: "Endurance Tea",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "This tea is true to its name...Endurance!  The flavor is wonderful and invigorating.  I bought just a small sample of it and am returning to buy a much larger supply. ",
                 },
               },
               {
-                id: "9",
+                id: "270",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Sabi C",
+                  productTitle: "Endurance Tea",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "This is my pre-running drink choice. Gentle energy without the shakes important for a longer run. Love Coffee, but can't drink more then one cupe before running, but the endurance tea gives gentle long lasting energy!!",
                 },
               },
               {
-                id: "8",
+                id: "269",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Gem N",
+                  productTitle: "Endurance Tea",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "It clears and sharpens my mind. Great when I'm working under a deadline.",
                 },
               },
               {
-                id: "7",
+                id: "268",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Maximo H",
+                  productTitle: "Endurance Tea",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "If you you're looking for a great tasting tea that will provide you a nice boost of energy then The Endurance blend from The Art of Tea is an absolute must try/buy!",
                 },
               },
               {
-                id: "6",
+                id: "267",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Elaine P",
+                  productTitle: "Endurance Tea",
                   rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  text: "Very enjoyable and balanced. Fruity and a subtle earthy quality that finds itself calming the soul and gentle on sensitive stomachs.",
                 },
               },
               {
-                id: "5",
+                id: "266",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Hakim L",
+                  productTitle: "Endurance Tea",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "The endurance tea is a must buy!!! I've never felt so energetic from a tea before. I'm definitely a fan and you have a loyal customer now. I will order this tea Everytime.",
                 },
               },
               {
-                id: "4",
+                id: "265",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Dino N",
+                  productTitle: "Endurance Tea",
                   rating: 5,
-                  text: "Very good quality ",
+                  text: "Just wow. I was thrown back at the scent of this intoxicating delightful tea. Smooth and fruity. If you let the tea leaves steep long enough it’ll taste sweet.",
                 },
               },
               {
-                id: "3",
+                id: "264",
                 attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Lisa G",
+                  productTitle: "Endurance Tea",
                   rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
+                  text: "Thinking this might be my new favorite tea obsession. I love it. I’ve loved most of the teas I’ve tried though Art of Tea, and will continue purchasing more.",
                 },
               },
               {
-                id: "2",
+                id: "263",
                 attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Alec L",
+                  productTitle: "Endurance Tea",
                   rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "Usually a drinker of whites, greens, and oolong. Went for something different and was gald I did. Great blend. Love cinnamon with pu erh and the other ingredients make for a nice profile. Feels like a lighter caffeine level.",
                 },
               },
             ],
@@ -1505,10 +1269,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "50",
                 attributes: {
                   url: "/product28_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Sleep Tea",
+                },
+              },
+              {
+                id: "51",
+                attributes: {
+                  url: "/product28_2.webp",
+                  alternativeText: "Sleep Tea",
                 },
               },
             ],
@@ -1516,93 +1287,93 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "262",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Arlene B",
+                  productTitle: "Sleep Tea",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "This is the best remedy for insomnia.  I use regularly as my international business travels takes me across many time zones.  Excellent to help me cope with jet lag with the 3 best natural sleepy herbs--chamomile, valerien and passion flower.",
                 },
               },
               {
-                id: "9",
+                id: "261",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Chad R",
+                  productTitle: "Sleep Tea",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "Great sleepy tea, I had to look all over the internet to find one without licorice root.",
                 },
               },
               {
-                id: "8",
+                id: "260",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Eva P",
+                  productTitle: "Sleep Tea",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "Nice te!!! Very flavory!! I’ve trying different teas over the years for sleep and finally find one that’s help me.. 😍",
                 },
               },
               {
-                id: "7",
+                id: "259",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Moises G",
+                  productTitle: "Sleep Tea",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "It’s an amazing blend of flavors.  It’s light yet flavorful, and more importantly it helps relax the mind and have restful night sleep.",
                 },
               },
               {
-                id: "6",
+                id: "258",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Enedina R",
+                  productTitle: "Sleep Tea",
                   rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  text: "This tea helps me relax and wind down. Definitely sets the mood to fall into sleep more inviting.",
                 },
               },
               {
-                id: "5",
+                id: "257",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Cory A",
+                  productTitle: "Sleep Tea",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "This sleep tea definitely helps me sleep through the night it has a nice flavor too,  I will be purchasing again. ",
                 },
               },
               {
-                id: "4",
+                id: "256",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Sylvia N",
+                  productTitle: "Sleep Tea",
                   rating: 5,
-                  text: "Very good quality ",
+                  text: "I buy this for my sister she has trouble sleeping. She says it really does help her fall asleep, calms and makes her sleepy.",
                 },
               },
               {
-                id: "3",
+                id: "255",
                 attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Samantha D",
+                  productTitle: "Sleep Tea",
                   rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
+                  text: "I drink the sleepy tea about 30 minutes or so before I want to go to bed and it works like a charm!",
                 },
               },
               {
-                id: "2",
+                id: "254",
                 attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Elizabeth L",
+                  productTitle: "Sleep Tea",
                   rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
+                  text: "My family loves this tea, even when we travel we pack some to ensure a great night’s rest!",
                 },
               },
               {
-                id: "1",
+                id: "253",
                 attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Michele J",
+                  productTitle: "Sleep Tea",
                   rating: 5,
-                  text: "Best black tea ever",
+                  text: "I have never been a fan of chamomile tea, although I love how is soothes me and helps me sleep.  This blend is awesome!  I really enjoy it, my new sleep potion.",
                 },
               },
             ],
@@ -1629,10 +1400,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "48",
                 attributes: {
                   url: "/product27_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Soothe Tea",
+                },
+              },
+              {
+                id: "49",
+                attributes: {
+                  url: "/product27_2.webp",
+                  alternativeText: "Soothe Tea",
                 },
               },
             ],
@@ -1640,93 +1418,75 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "252",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  name: "Liv N",
+                  productTitle: "Soothe Tea",
+                  rating: 4,
+                  text: 'I\'m not sure about the ""tummy"" part. It came as a free sample in my tea box and I loved it and wanted more! Very relaxing tea.',
                 },
               },
               {
-                id: "9",
+                id: "251",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Cheryl L",
+                  productTitle: "Soothe Tea",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "I'm sipping on Tummy Tonic as I'm writing this review.  I have digestive issues, so I was drawn to order this tea online and I haven't been disappointed!  It is soothing with the right combination of ingredients.",
                 },
               },
               {
-                id: "8",
+                id: "250",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Mona V",
+                  productTitle: "Soothe Tea",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "This tea contains ingredients that several cultures use to calm upset stomach (ginger, peppermint, fennel, etc.). For me this is a delicious tea with great aroma and reduces bloating due to digestive issues. Great blend of flavors.",
                 },
               },
               {
-                id: "7",
+                id: "249",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Tracee Anne L",
+                  productTitle: "Soothe Tea",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "I have been giving this tea to others for stomach and stress. I recommend it to all!",
                 },
               },
               {
-                id: "6",
+                id: "248",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Victoria N",
+                  productTitle: "Soothe Tea",
                   rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  text: "I purchased this tea along with other items on my order in hopes that it will help me with digestive issues i have been having lately. the tea can taste a little strong at first, I am not a fan of licorice flavors, but it is very refreshing, I do add a teaspoon of honey to it as well with lemon.  it is very refreshing, the fact that it is organic as well was a definite winner for me. ",
                 },
               },
               {
-                id: "5",
+                id: "247",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Gail B",
+                  productTitle: "Soothe Tea",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "Formerly Tummy Tonic, we find this blend does wonders to help with stresses of the day.",
                 },
               },
               {
-                id: "4",
+                id: "246",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Courtney P",
+                  productTitle: "Soothe Tea",
                   rating: 5,
-                  text: "Very good quality ",
+                  text: "Good for an upset tummy, gas, or bloating. Refreshing and soothing. Not an overwhelming flavor. Great with honey.",
                 },
               },
               {
-                id: "3",
+                id: "245",
                 attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Jaime H",
+                  productTitle: "Soothe Tea",
                   rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "It was unlike any other tea I’ve tried. Mild on the front end with a unique kick of sweetness that hits the back of your throat! This is my new go-to. ",
                 },
               },
             ],
@@ -1753,10 +1513,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "46",
                 attributes: {
                   url: "/product26_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Feel Better Tea",
+                },
+              },
+              {
+                id: "47",
+                attributes: {
+                  url: "/product26_2.webp",
+                  alternativeText: "Feel Better Tea",
                 },
               },
             ],
@@ -1764,93 +1531,48 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "244",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Reeny W",
+                  productTitle: "Feel Better Tea",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "I have a certain type of tea that I always want when I'm not feeling well, or the weather is bad, and this tea is perfect! It is so good in fact, that I'm drinking it right now, and I am neither sick, nor experiencing any bad weather.",
                 },
               },
               {
-                id: "9",
+                id: "243",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  name: "Terrence T",
+                  productTitle: "Feel Better Tea",
+                  rating: 4,
+                  text: "This tea is delicious but, I didn't get the berries in it that I see in this picture.",
                 },
               },
               {
-                id: "8",
+                id: "242",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Bradley T",
+                  productTitle: "Feel Better Tea",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "Lovely , light flavor and relaxing night-time, relaxing tea ",
                 },
               },
               {
-                id: "7",
+                id: "241",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Rob N",
+                  productTitle: "Feel Better Tea",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "Yum! Great taste!!",
                 },
               },
               {
-                id: "6",
+                id: "240",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Lauren S",
+                  productTitle: "Feel Better Tea",
                   rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
-                },
-              },
-              {
-                id: "5",
-                attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
-                },
-              },
-              {
-                id: "4",
-                attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Very good quality ",
-                },
-              },
-              {
-                id: "3",
-                attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
-                },
-              },
-              {
-                id: "2",
-                attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "Warming Flavors. I like the blend but for large mugs I find 1.5 teaspoons is needed for better flavor. ",
                 },
               },
             ],
@@ -1877,10 +1599,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "44",
                 attributes: {
                   url: "/product25_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Flow Blend Tea",
+                },
+              },
+              {
+                id: "45",
+                attributes: {
+                  url: "/product25_2.webp",
+                  alternativeText: "Flow Blend Tea",
                 },
               },
             ],
@@ -1888,93 +1617,84 @@ export const dataStatic = {
           review: {
             data: [
               {
-                id: "10",
+                id: "239",
                 attributes: {
-                  name: "Tanner N",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Susan Y",
+                  productTitle: "Flow Blend Tea",
                   rating: 5,
-                  text: "I bought this blend a couple years ago back when it was called Ancient Forest. That was my first loose leaf tea, and upon purchasing it again a couple of days ago, I can still unequivocally say that this is not only the best Black tea, but the best tea an individual can purchase.  The flavor of the tea itself is amazing, and it also plays host to honey sweetness and leather. I drink this tea iced and hot, and its versatility is another factor at play that keeps me coming back for more (and I buy the 1 lb. bags).  All in all, get this tea and prepare to be spoiled.",
+                  text: "This tea is delicious. I served it at Christmas and New Year's.  Everyone loved the tea.  This tea replaced For Her tea.",
                 },
               },
               {
-                id: "9",
+                id: "238",
                 attributes: {
-                  name: "Judith H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Grace K",
+                  productTitle: "Flow Blend Tea",
                   rating: 5,
-                  text: "I have served this delicious tea at an afternoon tea gathering and everyone loved it.",
+                  text: "So surprised, this is my new favorite tea!  Creamy and floral! ",
                 },
               },
               {
-                id: "8",
+                id: "237",
                 attributes: {
-                  name: "Ian T",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Rose N",
+                  productTitle: "Flow Blend Tea",
                   rating: 5,
-                  text: "This tea is my first experience with Art of Tea. I was buying tea online from a different company, and wasn't totally satisfied with the quality. So, I ordered this tea to try out. I am very satisfied with the quality. It is very aromatic and flavorful. Best of all, the flavor profile matches well with the description - I like that I can be confident in buying a product based on the flavor description. I would recommend recommend this tea, especially if the description sounds enticing to you.",
+                  text: "LOVE this tea! So delicious, I drink it every day",
                 },
               },
               {
-                id: "7",
+                id: "236",
                 attributes: {
-                  name: "Laura J",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Rebecca M",
+                  productTitle: "Flow Blend Tea",
                   rating: 5,
-                  text: "I love 6:00 AM tea. It's complex and flavorful without being so specifically dominant that it takes over my whole breakfast. A great way to start the day.",
+                  text: "I love how smooth and comforting this tea is.  It is well balanced.  Yummy!",
                 },
               },
               {
-                id: "6",
+                id: "235",
                 attributes: {
-                  name: "Susan W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Laura M",
+                  productTitle: "Flow Blend Tea",
                   rating: 5,
-                  text: "Excellent quality tea.  It is my default. mode for awakening my morning brain and always satisfying.",
+                  text: "Buy this tea! Very flavorful!! My husband and I love this tea!",
                 },
               },
               {
-                id: "5",
+                id: "234",
                 attributes: {
-                  name: "Alyssa S",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Meredith B",
+                  productTitle: "Flow Blend Tea",
                   rating: 5,
-                  text: "This organic black tea makes a great every day cup by itself, but my favorite is to mix it with others!! I personally really like it with the peach oolong tea if you like mixing them :)",
+                  text: "Beautiful floral tea. Very delicate and smooth. Such a unique tea!",
                 },
               },
               {
-                id: "4",
+                id: "233",
                 attributes: {
-                  name: "Lori W",
-                  productTitle: "Yunnan Black Tea",
+                  name: "My-Hoa S",
+                  productTitle: "Flow Blend Tea",
                   rating: 5,
-                  text: "Very good quality ",
+                  text: "This tea smells divine and is so luscious! A perfect pamper-time tea for yourself, I could smell this tea forever! Having some now, actually, just brewed some and it's sitting, waiting for me to enjoy it.",
                 },
               },
               {
-                id: "3",
+                id: "232",
                 attributes: {
-                  name: "Lareina H",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Michele J",
+                  productTitle: "Flow Blend Tea",
                   rating: 5,
-                  text: "My fave straight black tea! Best thing to have in the morning.",
+                  text: "A beautiful, elegant tea.  The flavors work well together.  I enjoy this Flow tea after yoga class.  It feels like the perfect replenishment and treat.",
                 },
               },
               {
-                id: "2",
+                id: "231",
                 attributes: {
-                  name: "Christopher D",
-                  productTitle: "Yunnan Black Tea",
+                  name: "Jerry R",
+                  productTitle: "Flow Blend Tea",
                   rating: 5,
-                  text: "This tea is very tasty and mellow. When I want a break from Assam or English Breakfast, I drink this.",
-                },
-              },
-              {
-                id: "1",
-                attributes: {
-                  name: "Zohara T",
-                  productTitle: "Yunnan Black Tea",
-                  rating: 5,
-                  text: "Best black tea ever",
+                  text: "Another great tea!  Light and floral. Perfect way to start your morning.",
                 },
               },
             ],
@@ -2001,10 +1721,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "42",
                 attributes: {
                   url: "/product24_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Breathe Tea",
+                },
+              },
+              {
+                id: "43",
+                attributes: {
+                  url: "/product24_2.webp",
+                  alternativeText: "Breathe Tea",
                 },
               },
             ],
@@ -2125,10 +1852,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "40",
                 attributes: {
                   url: "/product23_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Chaga Chai Mushroom Tea",
+                },
+              },
+              {
+                id: "41",
+                attributes: {
+                  url: "/product23_2.webp",
+                  alternativeText: "Chaga Chai Mushroom Tea",
                 },
               },
             ],
@@ -2249,10 +1983,24 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "37",
                 attributes: {
                   url: "/product22_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Glow",
+                },
+              },
+              {
+                id: "38",
+                attributes: {
+                  url: "/product22_2.webp",
+                  alternativeText: "Glow",
+                },
+              },
+              {
+                id: "39",
+                attributes: {
+                  url: "/product22_3.webp",
+                  alternativeText: "Glow",
                 },
               },
             ],
@@ -2373,10 +2121,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "35",
                 attributes: {
                   url: "/product21_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Cleanse Tea",
+                },
+              },
+              {
+                id: "36",
+                attributes: {
+                  url: "/product21_2.webp",
+                  alternativeText: "Cleanse Tea",
                 },
               },
             ],
@@ -2497,10 +2252,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "33",
                 attributes: {
                   url: "/product20_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Tali's Masala Chai Tea",
+                },
+              },
+              {
+                id: "34",
+                attributes: {
+                  url: "/product20_2.webp",
+                  alternativeText: "Tali's Masala Chai Tea",
                 },
               },
             ],
@@ -2621,10 +2383,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "31",
                 attributes: {
                   url: "/product19_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Velvet Tea",
+                },
+              },
+              {
+                id: "32",
+                attributes: {
+                  url: "/product19_2.webp",
+                  alternativeText: "Velvet Tea",
                 },
               },
             ],
@@ -2744,10 +2513,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "29",
                 attributes: {
                   url: "/product18_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Jasmine Pearls",
+                },
+              },
+              {
+                id: "30",
+                attributes: {
+                  url: "/product18_2.webp",
+                  alternativeText: "Jasmine Pearls",
                 },
               },
             ],
@@ -2867,10 +2643,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "27",
                 attributes: {
                   url: "/product17_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Pacific Coast Mint Tea",
+                },
+              },
+              {
+                id: "28",
+                attributes: {
+                  url: "/product17_2.webp",
+                  alternativeText: "Pacific Coast Mint Tea",
                 },
               },
             ],
@@ -2991,10 +2774,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "25",
                 attributes: {
                   url: "/product16_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Green Pomegranate Tea",
+                },
+              },
+              {
+                id: "26",
+                attributes: {
+                  url: "/product16_2.webp",
+                  alternativeText: "Green Pomegranate Tea",
                 },
               },
             ],
@@ -3115,10 +2905,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "23",
                 attributes: {
                   url: "/product15_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Happy Tea",
+                },
+              },
+              {
+                id: "24",
+                attributes: {
+                  url: "/product15_2.webp",
+                  alternativeText: "Happy Tea",
                 },
               },
             ],
@@ -3238,10 +3035,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "21",
                 attributes: {
                   url: "/product14_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "English Breakfast Tea",
+                },
+              },
+              {
+                id: "22",
+                attributes: {
+                  url: "/product14_2.webp",
+                  alternativeText: "English Breakfast Tea",
                 },
               },
             ],
@@ -3362,10 +3166,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "19",
                 attributes: {
                   url: "/product13_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "French Lemon Ginger Tea",
+                },
+              },
+              {
+                id: "20",
+                attributes: {
+                  url: "/product13_2.webp",
+                  alternativeText: "French Lemon Ginger Tea",
                 },
               },
             ],
@@ -3486,10 +3297,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "17",
                 attributes: {
                   url: "/product12_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Earl Grey Crème Tea",
+                },
+              },
+              {
+                id: "18",
+                attributes: {
+                  url: "/product12_2.webp",
+                  alternativeText: "Earl Grey Crème Tea",
                 },
               },
             ],
@@ -3610,10 +3428,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "15",
                 attributes: {
                   url: "/product11_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "White Coconut Crème Tea",
+                },
+              },
+              {
+                id: "16",
+                attributes: {
+                  url: "/product11_2.webp",
+                  alternativeText: "White Coconut Crème Tea",
                 },
               },
             ],
@@ -3733,10 +3558,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "13",
                 attributes: {
                   url: "/product10_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Egyptian Chamomile Tea",
+                },
+              },
+              {
+                id: "14",
+                attributes: {
+                  url: "/product10_2.webp",
+                  alternativeText: "Egyptian Chamomile Tea",
                 },
               },
             ],
@@ -3856,10 +3688,10 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "12",
                 attributes: {
                   url: "/product9_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Uji Gyokuro Tea",
                 },
               },
             ],
@@ -3979,10 +3811,10 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "11",
                 attributes: {
                   url: "/product8_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Dragonwell Tea",
                 },
               },
             ],
@@ -4102,10 +3934,10 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "10",
                 attributes: {
                   url: "/product7_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Darjeeling Tea",
                 },
               },
             ],
@@ -4225,10 +4057,10 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "9",
                 attributes: {
                   url: "/product6_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Silver Needle Tea",
                 },
               },
             ],
@@ -4348,10 +4180,10 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "8",
                 attributes: {
                   url: "/product5_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Crimson Oolong Tea",
                 },
               },
             ],
@@ -4471,10 +4303,10 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "7",
                 attributes: {
                   url: "/product4_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Golden Monkey Tea",
                 },
               },
             ],
@@ -4595,10 +4427,17 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "5",
                 attributes: {
                   url: "/product3_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Turmeric Ginger Tea",
+                },
+              },
+              {
+                id: "6",
+                attributes: {
+                  url: "/product3_2.webp",
+                  alternativeText: "Turmeric Ginger Tea",
                 },
               },
             ],
@@ -4719,10 +4558,24 @@ export const dataStatic = {
           img: {
             data: [
               {
-                id: "1",
+                id: "2",
                 attributes: {
                   url: "/product2_1.webp",
-                  alternativeText: "Yunnan Black Tea",
+                  alternativeText: "Vanilla Berry Truffle Tea",
+                },
+              },
+              {
+                id: "3",
+                attributes: {
+                  url: "/product2_2.webp",
+                  alternativeText: "Vanilla Berry Truffle Tea",
+                },
+              },
+              {
+                id: "4",
+                attributes: {
+                  url: "/product2_3.webp",
+                  alternativeText: "Vanilla Berry Truffle Tea",
                 },
               },
             ],
